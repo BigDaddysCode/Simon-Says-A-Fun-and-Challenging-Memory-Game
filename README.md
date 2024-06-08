@@ -10,5 +10,5 @@ Visually Appealing Design: Enjoy a clean and colorful interface that enhances th
 Customization Potential: Tailor the visual aesthetics and sound effects to your preferences (optional: mention specific aspects if applicable).
 Getting Started:
 
-Clone the Repository: git clone https://github.com/your-username/simon-says-game.git
+Clone the Repository: git clone https://github.com/BigDaddysCode/simon-says-game.git
 Install Dependencies (if any): Follow the instructions in the README file to set up any required libraries or frameworks.
